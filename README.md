@@ -8,8 +8,7 @@ Hi, I'm Tyger375, I'm a student and I like programming<br>
 I like creating front-end and back-end web sites and videogames<br>
 <br>
 I studied:<br>
-Java-Javascript-Python-HTML-CSS-C#<br>
-Studying C++<br>
+C++-Java-Javascript-Python-HTML-CSS-C# and a little of C<br>
 
 ## Skills
 
