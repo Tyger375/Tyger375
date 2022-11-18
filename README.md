@@ -1,6 +1,7 @@
 # Tyger 375
 
 - Creator of [Lmao bot](https://tyger375.github.io/LmaoBotSite/)<br>
+- My app on the google play store [Sudoku City](https://play.google.com/store/apps/details?id=com.takanenstudios.sudokucitycreator)<br>
 
 ## About me
 
@@ -14,10 +15,10 @@ C++-Kotlin-Python-Javascript-Java-HTML-CSS-C# and a little of C<br>
 
 ## Skills
 
-- Front-end development using HTML, CSS and Javascript<br>
-- Back-end development using node.js and express, python and flask<br>
-- I use firebase for my databases<br>
-- I make videogames with Unity and C#, SFML and C++<br>
+- Front-end development using HTML, CSS and Javascript/Typescript and Angular<br>
+- Back-end development using node.js and express, python and flask, C# and .Net Core<br>
+- I use firebase for databases, authentications and storage<br>
+- I make videogames with Unity and C#, SFML and C++, Godot and C++ (GDNative)<br>
 - Android development using Java/Kotlin and Android Studio<br>
 
 ## Links and socials
