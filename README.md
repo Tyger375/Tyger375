@@ -1,6 +1,6 @@
 # Tyger 375
 
-- Creator of [Lmao bot](https://lmaobot.gq/)<br>
+- Creator of [Lmao bot](https://tyger375.github.io/LmaoBotSite/)<br>
 
 ## About me
 
