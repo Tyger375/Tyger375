@@ -24,5 +24,5 @@ C++-Kotlin-Python-Javascript-Java-HTML-CSS-C# and a little of C<br>
 ## Links and socials
 
 - Discord: tyger 375#4141<br>
-- Web site: https://tyger375.tk/<br>
+- Web site: https://tyger375.netlify.app/<br>
 - Twitter: https://twitter.com/375tyger<br>
