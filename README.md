@@ -1,6 +1,6 @@
 # Tyger 375
 
-- Creator of [Lmao bot](https://tyger375.github.io/LmaoBotSite/)<br>
+- Creator of [Lmao bot](https://github.com/Tyger375/Lmao-Bot)<br>
 - My app on the google play store [Sudoku City](https://play.google.com/store/apps/details?id=com.takanenstudios.sudokucitycreator)<br>
 
 ## About me
